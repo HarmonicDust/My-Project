@@ -3,6 +3,6 @@
 return function(Obj)
     assert(Obj, "No arguments were passed!")
     
-    Obj = Obj:gsub("/", "/main/")
+    Obj = Obj:gsub("/", "/main/"):gsub(":", "/")
     return loadstring(game:HttpGet("https://raw.githubusercontent.com/Proxides/" .. Obj, true))()
 end
