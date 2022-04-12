@@ -1,3 +1,0 @@
-return {
-    "Apple", "Pie", "Pumpkin"
-}
