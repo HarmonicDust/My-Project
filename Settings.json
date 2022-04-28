@@ -1,0 +1,9 @@
+{
+    Running: false,
+    Directory: "My-Project/null",
+    ReadingsFormat: "json",
+    IsDesktopVersion: false,
+    IsSiteVersion: false,
+    IsConnected: false,
+    Authorized: false
+}
