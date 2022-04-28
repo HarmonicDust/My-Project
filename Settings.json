@@ -4,5 +4,5 @@
     Theme: "Default",
     On: null,
     ParseJson: true,
-    Connected:false
+    Connected: false
 }
