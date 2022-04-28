@@ -1,8 +1,8 @@
 {
-    Authorized: false,
-    Directory: "My-Project/null",
-    Theme: "Default",
-    On: null,
-    ParseJson: true,
-    Connected: false
+    "Authorized": false,
+    "Directory": "My-Project/null",
+    "Theme": "Default",
+    "On": null,
+    "ParseJson": true,
+    "Connected": false
 }
